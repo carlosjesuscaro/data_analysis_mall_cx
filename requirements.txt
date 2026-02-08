@@ -1,0 +1,7 @@
+pandas
+pandas-stubs
+numpy
+matplotlib
+seaborn
+scikit-learn
+kagglehub
